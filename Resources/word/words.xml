@@ -1,0 +1,32 @@
+<dict>
+	<key>name</key>
+	<string>Ultimate Brain</string>
+	<key>win</key>
+	<string>Congratulation</string>
+	<key>lose</key>
+	<string>You failed</string>
+	<key>question1</key>
+	<string>how many apples have you seen?</string>
+	<key>question2</key>
+	<string>how many bananas have you seen?</string>
+	<key>question3</key>
+	<string>how many cherries have you seen?</string>
+	<key>question4</key>
+	<string>how many peach have you seen?</string>
+	<key>question5</key>
+	<string>how many pears have you seen?</string>
+	<key>question6</key>
+	<string>how many pineapples have you seen?</string>
+	<key>question7</key>
+	<string>how many green fruits have you seen?</string>
+	<key>question8</key>
+	<string>how many yellow fruits have you seen?</string>
+	<key>level5_1</key>
+	<string>O</string>
+	<key>level5_2</key>
+	<string>Q</string>
+	<key>level6_1</key>
+	<string>U</string>
+	<key>level6_2</key>
+	<string>V</string>
+</dict>
